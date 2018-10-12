@@ -1,0 +1,61 @@
+.container {
+    width: 1000px;
+    background: #e6e6e6;
+    height: 600px;
+    margin: 0px auto;
+}
+.row-one {
+    height: 200px;
+    width: 33.33%;
+    float: left;
+    padding: 1px;
+    box-sizing: border-box;
+ /* border: 0px solid #fff;  */
+}
+.emerland {
+    background: #2ecc71;
+    height: 100%;
+    text-align: center;
+    margin: auto;
+    text-transform: uppercase;
+    color: #34495e;
+}
+.amethyst {
+    background: #9b59b6;
+    height: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #34495e;
+}
+.peterriver {
+    background: #3498db;
+    height: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #34495e;
+}
+.row-two {
+    height: 200px;
+    width: 50%;
+    float: left;
+    padding: 1px;
+    box-sizing: border-box;
+ /* border: 1px solid #fff;  */
+}
+
+.row-three {
+    width: 16.67%;
+    float: left;
+    height: 200px; 
+    padding: 1px;
+    box-sizing: border-box;
+ /* border: 1px solid #fff;  */
+}
+.row-four {
+    width: 66.66%;
+    float: left;
+    height: 200px;
+    padding: 1px;
+    box-sizing: border-box;
+ /* border: 1px solid #fff;  */
+}
